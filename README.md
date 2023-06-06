@@ -41,7 +41,7 @@ Upload your HTML, CSS, and any other necessary files to the hosting server.
   
 ```java
   <!DOCTYPE html>
-<html lang="en"
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
